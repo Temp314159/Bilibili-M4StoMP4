@@ -1,0 +1,2 @@
+# Bilibili-M4StoMP4
+将手机端bilibili下载的视频文件转换为mp4格式，可以识别旧版blv与新版m4s，并自动读取视频相关信息形成文件名
